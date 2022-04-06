@@ -1,0 +1,26 @@
+id: P4D3279DD
+initial_creation_type: input
+source_metadata:
+  work_id: http://purl.bdrc.io/resource/WA3JT13317
+  instance_id: http://purl.bdrc.io/resource/IE3JT13317
+  collection_id: http://purl.bdrc.io/resource/PR0ET001
+  language_id: None
+  title:
+    bo:
+    - གཅོད་ཀྱི་ཚོགས་ལས་ཡོན་ཏན་ཀུན་འབྱུང་གསུངས་རྒྱུན་འཁྲུལ་མེད་ལྟར་བཀོད་པ།
+  alt_title: {}
+  author: http://purl.bdrc.io/resource/P562
+  publisher: DharmaDownload
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: false
+  volumes:
+    b9bb597211e24399a840eae034e58bce:
+      title: ༼༢༩༧༽༄༅།་།གཅོད་ཀྱི་ཚོགས་ལས་ཡོན་ཏན་ཀུན་འབྱུང་གསུངས་རྒྱུན་འཁྲུལ་མེད་ལྟར་བཀོད་པ་བཞུགས་པའི་དབུ་ཕྱོགས་ལགས་སོ།་།།་།
+      volume_number: 1
+      base_file: UT3JT13317_001_0001.txt
+      reference: http://purl.bdrc.io/resource/VLFF249108A9AAFA91
+      image_group: null
+      quality: null
+  reproductionOf: []
+created_at: '2021-12-22T11:20:36.839445'
+last_modified_at: '2021-12-22T11:20:36.839452'
